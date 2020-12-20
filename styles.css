@@ -1,0 +1,7 @@
+.cell{
+    height: 33vh;
+    width: 33vw;
+    border: solid;
+    border-color: seagreen;
+    font-size: large;
+}
